@@ -1,2 +1,2 @@
-# artimulas
+# artimola
 site artimula
